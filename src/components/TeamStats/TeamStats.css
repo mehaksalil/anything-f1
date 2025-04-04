@@ -1,0 +1,53 @@
+.team-stats {
+  padding: 20px;
+  background-color: #121212;
+  color: white;
+  text-align: center;
+}
+
+.team-stats h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.team-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.team-card {
+  background-color: #1e1e1e;
+  padding: 15px;
+  border-radius: 8px;
+  width: 250px;
+  text-align: left;
+  box-shadow: 2px 2px 10px rgba(255, 255, 255, 0.1);
+}
+
+.team-image {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.team-card h3 {
+  font-size: 1.3rem;
+  margin-bottom: 5px;
+}
+
+.team-base {
+  font-size: 0.9rem;
+  color: #aaa;
+}
+
+.team-card ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.team-card ul li {
+  font-size: 0.9rem;
+  margin: 5px 0;
+}
